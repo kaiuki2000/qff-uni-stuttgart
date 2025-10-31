@@ -1,0 +1,10 @@
+# Minimal Python packages required to run the notebooks
+# Install with: pip install -r requirements.txt
+
+qiskit>=2.2.0,<3.0
+qiskit-aer>=0.17.0,<1.0
+qiskit-ibm-runtime>=0.43.0,<1.0
+numpy>=2.3,<3.0
+matplotlib>=3.10,<4.0
+ipykernel>=7.0,<8.0
+pylatexenc>=2.10,<3.0
