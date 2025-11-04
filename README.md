@@ -12,7 +12,6 @@ This repository contains materials for the Qiskit Fall Fest 2025 workshops and c
 * `Notebook_2/prompt_2.ipynb` — Pirate-themed intermediate challenge inspired by the Elitzur–Vaidman interaction-free measurement. Participants detect “trapped” treasure chests without opening them.
 * `Notebook_2/images/` — Supporting figures used in the notebooks.
 * `README.md` — Setup, usage instructions, and participation guidelines.
-* `BasQQiskit_Fall-Fest_2025_Slides.pdf` — Optional reference material that inspired the pirate-themed prompt.
 
 ---
 
