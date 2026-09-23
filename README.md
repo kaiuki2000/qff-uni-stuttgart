@@ -80,7 +80,7 @@ Supported by **IBM Quantum**, HQS Simulations, KIPU Quantum, Bosch, and the Scho
 ## Contact
 
 For inquiries, partnerships, or media requests:
-🌐 [qiskit-fall-fest-bw.com](https://qiskit-fall-fest-bw.com)
+🌐 [qiskit-fall-fest-bw.com/2025](https://qiskit-fall-fest-bw.com/2025)
 📧 **Email:** [afonso.azenha@iti.uni-stuttgart.de](mailto:afonso.azenha@iti.uni-stuttgart.de)
 
 ---
